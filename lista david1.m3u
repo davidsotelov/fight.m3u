@@ -1,0 +1,173 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="FIGHT SPORTS" tvg-logo="https://w7.pngwing.com/pngs/405/493/png-transparent-boxing-combat-sport-sports-entertainment-television-channel-boxing.png" group-title="SPAIN HD",FIGHT SPORTS
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FIGHT NETWORK PLEX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Fight_Network_2011_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20220124094307" group-title="SPAIN HD",FIGHT NETWORK PLEX
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CHANNEL FIGHT" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/spb96wvft5bvxnt7r0te" group-title="SPAIN HD",CHANNEL FIGHT
+https://d15wqvt0xm15k4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ChannelFight-DistroTV/266.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FITE" tvg-logo="https://www.interjoomla.com.ar/wp-content/uploads/2020/02/23.png" group-title="SPAIN HD",FITE
+https://www.fite.tv/embed/play/2p6mu.m3u8?ref=external-search&site=fite&ts=1610393964
+#EXTINF:-1 tvg-ID="" tvg-name="FITE 24/7" tvg-logo="https://www.interjoomla.com.ar/wp-content/uploads/2020/02/23.png" group-title="SPAIN HD",FITE 24/7
+http://n1.klowdtv.net/live2/fite247_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y9MVhOJ.png" group-title="Pluto TV", Peleas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=b7fbbfb9-f693-11ea-b314-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 tvg-ID="" tvg-name="HARD KNOCKS FIGHTING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="SPAIN HD",HARD KNOCKS FIGHTING
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8?ads.plex_token=mfsy-uznAL6wQUJjAXsp&ads.channel_id=5fd115bdb7ef8d002dcf1820&ads.device_id=04a07524-9b53-52a4-a526-4fe1cf222ecd&ads.dnt=0
+#EXTINF:-1 tvg-ID="" tvg-name="MMA TV PLEX" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=4bf665&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmmatv.png" group-title="SPAIN HD",MMA TV PLEX
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=819&livestream=1&live=1&app_bundle=com.plexapp.desktop&did=ace7a64f-8b6a-5baa-8228-087c185b8d62&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&custom4=plex&gdpr=1&device_make=Windows&device_model=Chrome&coppa=1&us_privacy=1---&custom_6=5JeprykV3D6MQ7ZmNp8x&custom_7=60ecb878ebef9d002c4d0a11
+#EXTINF:-1 tvg-ID="" tvg-name="BELLATOR MMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/Bellator_MMA_Logo.png" group-title="SPAIN HD",BELLATOR MMA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=c4e50db1-ec3d-4bd9-a490-1cabf5d6e2b5&clientModelNumber=na&deviceDNT=false&deviceId=c4e50db1-ec3d-4bd9-a490-1cabf5d6e2b5&deviceLat=42.3562&deviceLon=-71.0631&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.114&marketingRegion=US&serverSideAds=true&sessionID=0ee254ab-9a28-11eb-a134-0242ac110002&sid=0ee254ab-9a28-11eb-a134-0242ac110002&userId=
+#EXTINF:-1 tvg-ID="" tvg-name="GLORY KICKBOXING" tvg-logo="http://whoatv.com/wp-content/uploads/2015/02/GLORY_WS.png" group-title="SPAIN HD",GLORY KICKBOXING
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=c4e50db1-ec3d-4bd9-a490-1cabf5d6e2b5&clientModelNumber=na&deviceDNT=false&deviceId=c4e50db1-ec3d-4bd9-a490-1cabf5d6e2b5&deviceLat=42.3562&deviceLon=-71.0631&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.114&marketingRegion=US&serverSideAds=true&sessionID=ddac14e7-9a25-11eb-ab6d-0242ac110002&sid=ddac14e7-9a25-11eb-ab6d-0242ac110002&userId=
+#EXTINF:-1 tvg-ID="" tvg-name="GLORY KICKBOXING" tvg-logo="http://whoatv.com/wp-content/uploads/2015/02/GLORY_WS.png" group-title="SPAIN HD",GLORY KICKBOXING UK
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d6f5e738977e2c310949/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=1de255ef-b246-4e80-9265-a72449d03926&clientModelNumber=na&deviceDNT=false&deviceId=1de255ef-b246-4e80-9265-a72449d03926&deviceLat=52.5369&deviceLon=-0.2041&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.114&marketingRegion=GB&serverSideAds=true&sessionID=55f49b01-9aef-11eb-8cd8-0242ac110002&sid=55f49b01-9aef-11eb-8cd8-0242ac110002&userId=
+#EXTINF:-1 tvg-ID="" tvg-name="GLORY KICKBOXING" tvg-logo="http://whoatv.com/wp-content/uploads/2015/02/GLORY_WS.png" group-title="SPAIN HD",GLORY KICKBOXING
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9be1be738977e2c312134/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=97357fcd-3623-4dce-b801-ec1db5585216&clientModelNumber=na&deviceDNT=false&deviceId=97357fcd-3623-4dce-b801-ec1db5585216&deviceLat=46.9786&deviceLon=7.4483&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=DE&serverSideAds=true&sessionID=28a56078-b4a3-11eb-a6ab-0242ac110002&sid=28a56078-b4a3-11eb-a6ab-0242ac110002&userId=
+#EXTINF:-1 tvg-ID="" tvg-name="FIGHT" tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/thumbnail.jpg?auto=&fit=fill&fill=blur&ixlib=react-9.1.5&w=68&h=80&dpr=3&q=35" group-title="SPAIN HD",FIGHT
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=c4e50db1-ec3d-4bd9-a490-1cabf5d6e2b5&clientModelNumber=na&deviceDNT=false&deviceId=c4e50db1-ec3d-4bd9-a490-1cabf5d6e2b5&deviceLat=42.3562&deviceLon=-71.0631&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.114&marketingRegion=US&serverSideAds=true&sessionID=53ec870f-9a27-11eb-8cd8-0242ac110002&sid=53ec870f-9a27-11eb-8cd8-0242ac110002&userId=
+#EXTINF:-1 tvg-ID="" tvg-name="FIGHT" tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/thumbnail.jpg?auto=&fit=fill&fill=blur&ixlib=react-9.1.5&w=68&h=80&dpr=3&q=35" group-title="SPAIN HD",FIGHT
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d659fd87eb3a2717afc9/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=97357fcd-3623-4dce-b801-ec1db5585216&clientModelNumber=na&deviceDNT=false&deviceId=97357fcd-3623-4dce-b801-ec1db5585216&deviceLat=51.4483&deviceLon=-0.1383&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.72&marketingRegion=GB&serverSideAds=true&sessionID=1a278147-a072-11eb-8d47-0242ac110002&sid=1a278147-a072-11eb-8d47-0242ac110002&userId=
+#EXTINF:-1 tvg-ID="" tvg-name="FIGHT" tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/thumbnail.jpg?auto=&fit=fill&fill=blur&ixlib=react-9.1.5&w=68&h=80&dpr=3&q=35" group-title="SPAIN HD",FIGHT
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9bda9fd87eb3a2717cce0/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=97357fcd-3623-4dce-b801-ec1db5585216&clientModelNumber=na&deviceDNT=false&deviceId=97357fcd-3623-4dce-b801-ec1db5585216&deviceLat=46.9786&deviceLon=7.4483&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=DE&serverSideAds=true&sessionID=28a56078-b4a3-11eb-a6ab-0242ac110002&sid=28a56078-b4a3-11eb-a6ab-0242ac110002&userId=
+#EXTINF:-1 tvg-ID="" tvg-name="M-1 GLOBAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/M-1_Global_2.jpg" group-title="SPAIN HD",M-1 GLOBAL
+http://hls-m1globaltv.cdnvideo.ru/m1globaltv/m1globaltv-rtmp-eng_720p/playlist.m3u8?zoid=
+#EXTINF:-1 tvg-ID="" tvg-name="PT: COMBATE GLOBAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CG_logo_final.svg/1200px-CG_logo_final.svg.png" group-title="Live: Portugal",PT: COMBATE GLOBAL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=669555e83d5c983ef33d84435f05f1e2&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.canela.tv%252Fes%252Flinear%252Fcombate-global&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=North%2520America&timestamp=1661098894&id=16970&ip=192.241.241.129&override_expiration=1500&deliveryProfileId=23762&sign=K47GxLmel%2FY6zBxrrmPN8QAGlq%2FR4PtfGA0545c%2F9cY%3D
+#EXTINF:-1 tvg-ID="" tvg-name="FIGHTING SPIRIT" tvg-logo="https://fighting.fr/wp-content/uploads/2019/11/fs-fb.jpg" group-title="SPAIN HD",FIGHTING SPIRIT
+https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MMA JUNKIE" tvg-logo="https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2017/07/mmaj-header-logo.png" group-title="SPAIN HD",MMA JUNKIE
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="XFC TV" tvg-logo="https://www.coolstreaming.us/img/ch/image81116059050.jpg" group-title="SPAIN HD",XFC TV
+https://xfctvfightworld-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61fafb87d8064f7fb66a26c3_xfctvfightworld-live-2/index-xfctv.m3u8?ads.ac.t=aHR0cHM6Ly92aWQuc3ByaW5nc2VydmUuY29tL3J0LzIzMjU%3D&ads.cb=821791104520537&ads.w=370&ads.h=208&ads.url=https%3A%2F%2Flocalnow.com%2Fchannels%2Fepg-xfctv-fight-world&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.app_version=&ads.pos=mid&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F98.0.4758.102%20Safari%2F537.36&ads.channel_id=61fafb87d8064f7fb66a26c3&ads.channel_title=EPG-XFCTV_Fight_World&ads.channel_contenttype=Shows&ads.channel_name=EPG-XFCTV_Fight_World&ads.channel_genre=Sports&ads.channel_rating=&ads.channel_language=&ads.channel_contentlen=1800&ads.content_livestream=1&ads.network_name=&ads.content_provider=&ads.us_privacy=&ads.payid=6ec8debb969b70cf&ads.SSID=70f2416d-b245-4673-a643-cde1d046c106&ads.hybrid=0&ads.tag_id=localnow&ads.aml=1&user_cookieid=70f2416d-b245-4673-a643-cde1d046c106
+#EXTINF:-1 tvg-ID="" tvg-name="UNITED FIGHT ALLIANCE" tvg-logo="https://a.jsrdn.com/hls/22778/united-fight-alliance-1/thumbh_20201015_215118.jpg" group-title="SPAIN HD",UNITED FIGHT ALLIANCE
+https://dai.google.com/linear/hls/event/_Bdiue-cTbidArncLX2eOA/master.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FIGHTBOX" tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="Live: Sweden",VIP SE: FIGHTBOX
+http://sabuczy.xyz:8080/live/cT8NkZUg2ME9/wzeDsakA5ggj/29089.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SE: V Fight Sports HD" tvg-logo="https://w7.pngwing.com/pngs/405/493/png-transparent-boxing-combat-sport-sports-entertainment-television-channel-boxing.png" group-title="Live: Sweden",VIP SE: V Fight Sports HD
+http://sabuczy.xyz:8080/live/cT8NkZUg2ME9/wzeDsakA5ggj/14153.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP CRO: Fight Channel HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/SK_Fight_HR_logo.png" group-title="Live: Hrvatska",VIP CRO: SK FIGHT
+http://sabuczy.xyz:8080/live/cT8NkZUg2ME9/wzeDsakA5ggj/64358.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP CRO: Fight Channel HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/SK_Fight_HR_logo.png" group-title="Live: Hrvatska",VIP CRO: SK FIGHT
+http://zeus3.xyz:80/2464656913/7368806783/42849
+#EXTINF:-1 tvg-ID="" tvg-name="VIP RS: ARENA FIGHT HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Fight_RS_logo.png" group-title="Live: Srbija & MN",VIP RS: ARENA FIGHT HD
+http://sabuczy.xyz:8080/live/cT8NkZUg2ME9/wzeDsakA5ggj/74139.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Fight Box" tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="Live: Albania",AL: Fight Box
+http://sabuczy.xyz:8080/live/cT8NkZUg2ME9/wzeDsakA5ggj/29821.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Fight Box" tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="Live: OSN - Go-box & Netflix",VIP AR: OSN Fight Box
+http://sabuczy.xyz:8080/live/cT8NkZUg2ME9/wzeDsakA5ggj/7640.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: OSN OSN Fight Network HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Fight_Network_2011_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20220124094307" group-title="Live: OSN - Go-box & Netflix",VIP AR: OSN OSN Fight Network HD
+http://sabuczy.xyz:8080/live/cT8NkZUg2ME9/wzeDsakA5ggj/13790.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: My Fight Box HD" tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="Live: OSN - Go-box & Netflix",VIP AR: My Fight Box HD
+http://sabuczy.xyz:8080/live/cT8NkZUg2ME9/wzeDsakA5ggj/12245.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="UK: UFC fight night Pass HD" tvg-logo="https://rockandwrestling.com/wp-content/uploads/UFC-FIGHT-PASS.jpg" group-title="Live: United Kingdom",UK: UFC fight night Pass HD
+http://sabuczy.xyz:8080/live/cT8NkZUg2ME9/wzeDsakA5ggj/12520.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="UK: UFC Fight PASS" tvg-logo="https://rockandwrestling.com/wp-content/uploads/UFC-FIGHT-PASS.jpg" group-title="Live: United Kingdom",UK: UFC Fight PASS
+http://sabuczy.xyz:8080/live/cT8NkZUg2ME9/wzeDsakA5ggj/12479.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP US: Fight Network / MMA Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Fight_Network_2011_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20220124094307" group-title="Live: USA",VIP US: Fight Network / MMA Network
+http://sabuczy.xyz:8080/live/cT8NkZUg2ME9/wzeDsakA5ggj/10738.m3u8
+#EXTINF:-1 tvg-ID="worldfishingnetwork.us" tvg-name="VIP US: Fight Sport" tvg-logo="https://w7.pngwing.com/pngs/405/493/png-transparent-boxing-combat-sport-sports-entertainment-television-channel-boxing.png" group-title="Live: USA",VIP US: Fight Sport
+http://sabuczy.xyz:8080/live/cT8NkZUg2ME9/wzeDsakA5ggj/10726.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP US: UFC Fight Pass FHD" tvg-logo="https://rockandwrestling.com/wp-content/uploads/UFC-FIGHT-PASS.jpg" group-title="Live: USA",VIP US: UFC Fight Pass FHD
+http://sabuczy.xyz:8080/live/cT8NkZUg2ME9/wzeDsakA5ggj/27971.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP US: UFC Fight Pass Live Only" tvg-logo="https://rockandwrestling.com/wp-content/uploads/UFC-FIGHT-PASS.jpg" group-title="Live: USA",VIP US: UFC Fight Pass Live Only
+http://sabuczy.xyz:8080/live/cT8NkZUg2ME9/wzeDsakA5ggj/34745.m3u8
+#EXTINF:-1 tvg-ID="worldfishingnetwork.us" tvg-name="VIP US: World Fight Channel HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/SK_Fight_HR_logo.png" group-title="Live: USA",VIP US: SK FIGHT
+http://sabuczy.xyz:8080/live/cT8NkZUg2ME9/wzeDsakA5ggj/9867.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP CAN: Fight Network HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Fight_Network_2011_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20220124094307" group-title="Live: Canada",VIP CAN: Fight Network HD
+http://sabuczy.xyz:8080/live/cT8NkZUg2ME9/wzeDsakA5ggj/33746.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: FIGHT NETWORK FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Fight_Network_2011_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20220124094307" group-title="Live: Portugal",PT: FIGHT NETWORK FHD
+http://sabuczy.xyz:8080/live/cT8NkZUg2ME9/wzeDsakA5ggj/9639.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: FightBOX HD" tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="Live: Portugal",PT: FightBOX HD
+http://sabuczy.xyz:8080/live/cT8NkZUg2ME9/wzeDsakA5ggj/12602.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LT: Fight Sports" tvg-logo="https://w7.pngwing.com/pngs/405/493/png-transparent-boxing-combat-sport-sports-entertainment-television-channel-boxing.png" group-title="Live: Baltic",VIP LT: Fight Sports
+http://sabuczy.xyz:8080/live/cT8NkZUg2ME9/wzeDsakA5ggj/23440.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP EE: Prime Fight FHD" tvg-logo="https://masmediatv.es/images/2021/rm20Yr0M_400x400.png" group-title="Live: Baltic",VIP EE: Prime Fight FHD
+http://sabuczy.xyz:8080/live/cT8NkZUg2ME9/wzeDsakA5ggj/23781.m3u8
+#EXTINF:-1 tvg-ID="Fightklub HD PL" tvg-name="PL: FIGHT BOX" tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="Live: Poland",PL: FIGHT BOX
+http://sabuczy.xyz:8080/live/cT8NkZUg2ME9/wzeDsakA5ggj/5139.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Fightklub FHD" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/fightklub.png" group-title="Live: Poland",PL: Fightklub FHD
+http://sabuczy.xyz:8080/live/cT8NkZUg2ME9/wzeDsakA5ggj/41199.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Fightklub FHD" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/fightklub.png" group-title="Live: Poland",PL: Fightklub FHD
+http://zeus3.xyz/2464656913/7368806783/117411
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP PL: KSW FIGHT PPV HD" tvg-logo="https://images.tapology.com/logos/9/profile/ksw_logo.png?1548107200" group-title="Live: Poland",VIP PL: KSW FIGHT PPV HD
+http://sabuczy.xyz:8080/live/cT8NkZUg2ME9/wzeDsakA5ggj/9192.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PL: Polsat Sport Fight" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Polsat_sport_fight-1.png" group-title="Live: Poland",PL: Polsat Sport Fight
+http://sabuczy.xyz:8080/live/cT8NkZUg2ME9/wzeDsakA5ggj/12690.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BG: FightBox FHD" tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="Live: Bulgaria",BG: FightBox FHD
+http://sabuczy.xyz:8080/live/cT8NkZUg2ME9/wzeDsakA5ggj/26524.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RO: FightBox HD" tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="Live: Romania",RO: FightBox HD
+http://sabuczy.xyz:8080/live/cT8NkZUg2ME9/wzeDsakA5ggj/54942.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CZ: FIGHTBOX HD" tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="Live: Czech & Slovakia",CZ: FIGHTBOX HD
+http://sabuczy.xyz:8080/live/cT8NkZUg2ME9/wzeDsakA5ggj/7160.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: FIGHT NETWORK HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Fight_Network_2011_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20220124094307" group-title="Live: Slovenia",VIP SLO: FIGHT NETWORK HD
+http://sabuczy.xyz:8080/live/cT8NkZUg2ME9/wzeDsakA5ggj/32854.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: UFC FIGHT PASS HD" tvg-logo="https://rockandwrestling.com/wp-content/uploads/UFC-FIGHT-PASS.jpg" group-title="Live: Slovenia",VIP SLO: UFC FIGHT PASS HD
+http://sabuczy.xyz:8080/live/cT8NkZUg2ME9/wzeDsakA5ggj/32853.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: FIGHTBOX HD" tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="Live: Russia & UA-BY",RUS: FIGHTBOX HD
+http://sabuczy.xyz:8080/live/cT8NkZUg2ME9/wzeDsakA5ggj/31681.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ID: Fight Sports ID" tvg-logo="https://w7.pngwing.com/pngs/405/493/png-transparent-boxing-combat-sport-sports-entertainment-television-channel-boxing.png" group-title="Live: Indonesia",VIP ID: Fight Sports ID
+http://sabuczy.xyz:8080/live/cT8NkZUg2ME9/wzeDsakA5ggj/28781.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Fight Channel" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/SK_Fight_HR_logo.png" group-title="Live: Thailand & Cambodia",VIP TH: SK FIGHT
+http://sabuczy.xyz:8080/live/cT8NkZUg2ME9/wzeDsakA5ggj/10871.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: COMBATE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="Live: Portugal",PT: COMBATE HD
+http://sabuczy.xyz:8080/cT8NkZUg2ME9/wzeDsakA5ggj/42096
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Combate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="Live: Brazil",VIP BR: Combate
+http://sabuczy.xyz:8080/cT8NkZUg2ME9/wzeDsakA5ggj/10422
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Combate HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="Live: Brazil",VIP BR: Combate HD
+http://sabuczy.xyz:8080/cT8NkZUg2ME9/wzeDsakA5ggj/19479
+#EXTINF:-1 tvg-ID="" tvg-name="TITAN CHANNEL" tvg-logo="https://titanchannel.com/blog/wp-content/uploads/2016/07/Simbolo-y-logo-Titan.png" group-title="SPAIN HD",TITAN CHANNEL
+https://streannlivetitanchannel.cachefly.net/titanchannel1/titanchannel1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://whoatv.com/wp-content/uploads/2015/02/GLORY_WS.png" group-title="Pluto TV", GLORY KICKBOXING XUMO TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="Pluto TV", HARD KNOCKS FIGHTING XUMO TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.interjoomla.com.ar/wp-content/uploads/2020/02/23.png" group-title="Pluto TV", FITE TV
+https://answermedia-fite-tv-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.interjoomla.com.ar/wp-content/uploads/2020/02/23.png" group-title="Pluto TV", FITE TV
+https://3f09fc951eac400eac0c948a1db312de.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-XOD-Distro/114MQDCZFKS6TGGKADCI/hls3/now_-1m_15s/m.m3u8?ads.vast_id=661958&ads.w=1920&ads.h=1080&ads.ip=_80.224.186.55&ads.ua=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F104.0.0.0%20Safari%2F537.36&ads.ic=&ads.app_bundle=&ads.app_name=DistroTV&ads.app_store_url=_&ads.content_series=&ads.content_genre=&ads.rating=&ads.channel_name=FITE%2024%2F7&ads.did=46b1dabe-2346-4979-b639-19c69276a5da&ads.us_privacy=0&ads.schain=
+#EXTINF:-1 tvg-id="" tvg-name="ES| FIGHT TIME HD" tvg-logo="https://fight-time.com/static/media/logo.d356358c.png" group-title="EU | SPAIN SPORTS",ES| FIGHT TIME HD
+http://zeus3.xyz:80/2464656913/7368806783/18307
+#EXTINF:-1 tvg-id="" tvg-name="ES| FIGHT TIME SD" tvg-logo="https://fight-time.com/static/media/logo.d356358c.png" group-title="EU | SPAIN SPORTS",ES| FIGHT TIME SD
+http://zeus3.xyz:80/2464656913/7368806783/18308
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="Rakuten TV", HARD KNOCKS FIGHTING RAKUTEN TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/e8e5078a-2e16-4a57-918a-7c141df5230e/4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="Rakuten TV", HARD KNOCKS FIGHTING RAKUTEN TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=chrome&ads._fw_device_model=GENERIC&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=CPjnmsAPjnmsAADABBESCrCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads._fw_is_lat=0&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.caid=HardKnocks&ads.csid=zeus_eu_hardknocks_ssai&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=1970&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=359&ads.rakuten_streaming_id=f2e515ae-4ac4-49b7-a6ad-7d57b2bb5ad6&ads.rakuten_user_type=visitor&ads.xumo_channelId=9991711&ads.xumo_contentId=212&ads.xumo_contentName=HardKnocks&ads.xumo_ifa=64c435cc-c424-4f4f-a11a-4423fd066c91&ads.xumo_ifaType=ppid&ads.xumo_providerId=212&ads.xumo_providerName=HardKnocks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
