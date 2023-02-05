@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="beinlaliga.es" tvg-name="VIP ES: M. Laliga UHD 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="Live: Spain",VIP ES: M. Laliga UHD 4K
+acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: M. LaLiga FHD (Multi-Audio)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="Live: Spain",VIP ES: M. LaLiga FHD (Multi-Audio)
+acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: DAZN LaLiga 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1200px-DAZN_LaLiga_logo.svg.png" group-title="Live: Spain",VIP ES: DAZN LaLiga 4K
+acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: DAZN LaLiga FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1200px-DAZN_LaLiga_logo.svg.png" group-title="Live: Spain",VIP ES: DAZN LaLiga FHD
+acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: M. Liga De Campeones FHD(Multi-Audio)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/2560px-Movistar_Liga_de_Campeones.svg.png" group-title="Live: Spain",VIP ES: M. Liga De Campeones FHD(Multi-Audio)
+acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: DAZN Bar 2 FHD" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=72&h=54&tok=aa25ce&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fdaznbar02.png" group-title="Live: Germany",VIP DE: DAZN Bar 2 FHD
+acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85
